@@ -1,4 +1,4 @@
-# twilio-template
+# send-sms-template
 
 Copy the html, css and js folder from github and paste it under the app folder of the widget.
 
